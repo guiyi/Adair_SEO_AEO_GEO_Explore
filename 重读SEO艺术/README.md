@@ -1,4 +1,5 @@
 ## [重读SEO艺术系列文章]
+### 建立好的内容、告诉其他人，激励他们分享。
 
 - [第1篇 搜索：反映意识并连接商业契机](https://github.com/guiyi/Adair_SEO_AEO_GEO_Explore/blob/main/%E9%87%8D%E8%AF%BBSEO%E8%89%BA%E6%9C%AF/%E7%AC%AC1%E7%AF%87%20%E6%90%9C%E7%B4%A2%EF%BC%9A%E5%8F%8D%E6%98%A0%E6%84%8F%E8%AF%86%E5%B9%B6%E8%BF%9E%E6%8E%A5%E5%95%86%E4%B8%9A%E5%A5%91%E6%9C%BA.md "[SEO艺术重读] 第1篇 搜索：反映意识并连接商业契机")
 - [第2篇 搜索引擎原理](https://github.com/guiyi/Adair_SEO_AEO_GEO_Explore/blob/main/%E9%87%8D%E8%AF%BBSEO%E8%89%BA%E6%9C%AF/%E7%AC%AC2%E7%AF%87%20%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%8E%9F%E7%90%86.md "[SEO艺术重读] 第2篇 搜索引擎原理")
