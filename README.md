@@ -14,3 +14,5 @@
 我对这个SEO、AEO、GEO有浓厚的兴趣，也有实现的能力。
 欢迎加入我，一起探索之旅～
 
+微信公众号：完整目录见[SEO艺术重读](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNjQzMDkyNA==&action=getalbum&album_id=4470444778878631942&token=1853248355&lang=zh_CN#wechat_redirect)
+[重读SEO艺术系列完整版](https://my.feishu.cn/wiki/JvU6waLSmiTWolk5uADcQkthnwc)
