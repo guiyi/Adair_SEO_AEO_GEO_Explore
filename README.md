@@ -1,4 +1,8 @@
 # Adair_SEO_AEO_GEO_Explore
+
+![这是一个来自互联网行业摸爬滚打的16年的女性程序员视角， 
+经历了 开发 -> 运维 -> 大数据开发 -> 开发 -> 即将进入市场部做技术SEO、AEO、GEO](https://github.com/user-attachments/assets/751b360e-cdc9-4e63-88bd-c4408efd6d4e "一名女性程序员迈向技术SEO-AEO-GEO的人生之书")
+
 这是一个来自互联网行业摸爬滚打的16年的女性程序员视角， 
 经历了 开发 -> 运维 -> 大数据开发 -> 开发 -> 即将进入市场部做技术SEO、AEO、GEO。 
 
@@ -14,5 +18,5 @@
 我对这个SEO、AEO、GEO有浓厚的兴趣，也有实现的能力。
 欢迎加入我，一起探索之旅～
 
-微信公众号：完整目录见[SEO艺术重读](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNjQzMDkyNA==&action=getalbum&album_id=4470444778878631942&token=1853248355&lang=zh_CN#wechat_redirect)
-[重读SEO艺术系列完整版](https://my.feishu.cn/wiki/JvU6waLSmiTWolk5uADcQkthnwc)
+- 微信公众号：完整目录见[SEO艺术重读](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNjQzMDkyNA==&action=getalbum&album_id=4470444778878631942&token=1853248355&lang=zh_CN#wechat_redirect)
+- [重读SEO艺术系列完整版](https://my.feishu.cn/wiki/JvU6waLSmiTWolk5uADcQkthnwc)
