@@ -26,6 +26,11 @@
 - 知乎：[Adair探索SEO-AEO-GEO之旅](https://www.zhihu.com/people/adair-zou)
 - 今日头条 ：[Adair探索SEO-AEO-GEO之旅](https://www.toutiao.com/c/user/token/CiwRYxNLkjQ_MompSD9eHECqFCcHcBaUECA5N38wjS7dnM6BG9BHwUtrueX5LxpJCjwAAAAAAAAAAAAAUGXydIuk5fnMoeBEdqt38Am7Mq0hJEbhM1MuyaFOR53MfbpmWSSFKP22YKg0PyPmlXQQm_GQDhjDxYPqBCIBA2ufsSs=/?source=mine_profile)
 
+> ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/kmhNTE7ia08Iju3rNqHvuf7AlEqBS6WY0AEdKTibTFkfcZBE9Ux20fxia2pu2IZV6LEbmzmeeeKBSKLVEyKIzQZPknsPWCPEArDD3EiaeqalYyo/0?wx_fmt=jpeg)
+> <br>微信公众号完整目录见\[**[SEO艺术重读](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNjQzMDkyNA==&action=getalbum&album_id=4470444778878631942&token=1853248355&lang=zh_CN#wechat_redirect)**\]
+> <br>
+>
+> [![点击访问官网](https://mmbiz.qpic.cn/sz_mmbiz_png/Vqm1PppBQ5mdaLOcriasSpVeNtzunJeY8FnrsZtnPtfkibLyzbe7SE8RibNuwyDK28lkKGLwEF5gJT1xhoukEg1ZQ/0?wx_fmt=png)](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNjQzMDkyNA==&action=getalbum&album_id=4470444778878631942&token=1853248355&lang=zh_CN&scene=21#wechat_redirect)
 
 我对SEO、AEO、GEO有浓厚的兴趣，也有实现的能力。<br>
 欢迎加入我，一起探索之旅～<br><br>
